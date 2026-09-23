@@ -1,0 +1,11 @@
+[theme]
+primaryColor = "#1a73e8"
+base = "light"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
